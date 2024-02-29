@@ -1,2 +1,2 @@
 #!/bin/bash
-/create_directory.sh my_first_directory /create_directory.sh directory
+/create_directory.sh my_first_directory cp tmp
