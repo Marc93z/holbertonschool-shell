@@ -1,3 +1,2 @@
 read texte
 echo "$texte" | tr 'Ac' 'Ze'
-
