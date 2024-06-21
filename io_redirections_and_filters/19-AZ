@@ -1,2 +1,3 @@
-#!/bin/bash
-read input; echo ${input//A/Z//c/e}
+read texte
+echo "$texte" | tr 'Ac' 'Ze'
+
