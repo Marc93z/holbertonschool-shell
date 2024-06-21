@@ -1,2 +1,2 @@
-read texte
-echo "$texte" | tr 'Ac' 'Ze'
+#!/bin/bash
+tr Ac Ze
